@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Music Application</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="username">UserName</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="punjabi">Punjabi</string>
+    <string name="tamil">Tamil</string>
+    <string name="marathi">Marathi</string>
+    <string name="hindi">Hindi</string>
+    <string name="english">English</string>
+    <string name="languages">Select Music Language(s)</string>
+    <string name="proceed_to_login">Proceed to login</string>
+    <string name="search_song">Search Song</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="scrool">scrool</string>
+    <string name="email">john.doe@gmail.com</string>
+</resources>

@@ -1,0 +1,11 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    id 'com.android.application' version '7.4.2' apply false
+    id 'com.android.library' version '7.4.2' apply false
+}
+//apply plugin: 'python'
+//
+//python {
+//    buildPython "C:/Python39/python.exe" // path to the Python interpreter
+//    pipRequirementsPath "requirements.txt" // path to the requirements.txt file, if any
+//}
